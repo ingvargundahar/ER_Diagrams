@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T16:12:52.493Z" agent="5.0 (Windows)" etag="oGoZAr1FLFyMdJMBFky6" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T16:13:28.610Z" agent="5.0 (Windows)" etag="tY4lkhFRdkRaojfjwBlL" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="1638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -273,6 +273,12 @@
         </mxCell>
         <mxCell id="TxW6Z05cxE0RpUP17R9r-76" value="Studiengang" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="660" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TxW6Z05cxE0RpUP17R9r-83" value="Vorlesung 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TxW6Z05cxE0RpUP17R9r-84" value="Vorlesung 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="280" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
