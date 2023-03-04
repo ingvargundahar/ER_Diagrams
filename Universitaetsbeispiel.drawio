@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T17:23:22.795Z" agent="5.0 (Windows)" etag="z47Rh4FKM4D_j-bTLgMd" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T17:23:30.473Z" agent="5.0 (Windows)" etag="-7b0-ssmi-V9Ic_OLXeN" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1235" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -502,7 +502,7 @@
         <mxCell id="TxW6Z05cxE0RpUP17R9r-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="TxW6Z05cxE0RpUP17R9r-180" target="TxW6Z05cxE0RpUP17R9r-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TxW6Z05cxE0RpUP17R9r-180" value="hören" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TxW6Z05cxE0RpUP17R9r-180" value="hört" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="564.92" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
